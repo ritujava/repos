@@ -37,7 +37,7 @@ public class DontForgetToStoreIt {
         System.out.println("Do you like the color red or blue more? ");
         inputReader.nextLine();
         
-        System.out.println("Ooh , " + color + " " + cheese + "sounds delicious!");
+        System.out.println("Ooh , " + color + " " + cheese + " sounds delicious!");
         System.out.println(" The circumference of lifeis " + (2 * pi * meaningofLifeAndEverything));
         
          
